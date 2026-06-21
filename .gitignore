@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.venv/
+
+# Mac
+.DS_Store
+
+# Environment variables
+.env
+
+# Logs
+DataPipeline/Logs/
+
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# SQL Lite
+*.db
+
+# Power BI temporary files
+*.pbix.autorecovery

@@ -1,0 +1,63 @@
+{
+  "name": "Lilac Brand Theme",
+  "dataColors": [
+    "#6B3FCC",
+    "#9B72EF",
+    "#C4A9F8",
+    "#993556",
+    "#3B6D11",
+    "#BBA7D9",
+    "#3D1A8A",
+    "#E0D3FC"
+  ],
+  "background": "#F3EFFE",
+  "foreground": "#3D1A8A",
+  "tableAccent": "#6B3FCC",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#FFFFFF"}}}],
+        "border": [{"show": true, "color": {"solid": {"color": "#C4A9F8"}}, "radius": 10}],
+        "title": [{
+          "fontColor": {"solid": {"color": "#3D1A8A"}},
+          "fontSize": 12,
+          "fontFamily": "Segoe UI"
+        }]
+      }
+    },
+    "card": {
+      "*": {
+        "calloutValue": [{"fontSize": 28, "fontFamily": "Segoe UI"}],
+        "categoryLabel": [{"fontSize": 11, "fontColor": {"solid": {"color": "#BBA7D9"}}}]
+      }
+    },
+    "donutChart": {
+      "*": {
+        "legend": [{"show": false}],
+        "dataLabels": [{"show": false}]
+      }
+    },
+    "barChart": {
+      "*": {
+        "categoryAxis": [{"labelColor": {"solid": {"color": "#6B3FCC"}}, "gridlineColor": {"solid": {"color": "#F3EFFE"}}}],
+        "valueAxis": [{"labelColor": {"solid": {"color": "#BBA7D9"}}, "gridlineColor": {"solid": {"color": "#F3EFFE"}}}],
+        "dataLabels": [{"show": true, "fontSize": 10, "labelColor": {"solid": {"color": "#3D1A8A"}}}]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "header": [{"fontColor": {"solid": {"color": "#3D1A8A"}}, "backColor": {"solid": {"color": "#E0D3FC"}}, "fontSize": 11}],
+        "rows": [{"fontColor": {"solid": {"color": "#3D1A8A"}}, "backColor": {"solid": {"color": "#FFFFFF"}}, "fontSize": 11, "bandedRowColor": {"solid": {"color": "#FAF8FF"}}}],
+        "grid": [{"gridVertical": false, "gridHorizontalColor": {"solid": {"color": "#E0D3FC"}}}]
+      }
+    },
+    "slicer": {
+      "*": {
+        "selection": [{"selectAllCheckboxEnabled": false}],
+        "items": [{"fontColor": {"solid": {"color": "#3D1A8A"}}, "background": {"solid": {"color": "#FFFFFF"}}}],
+        "header": [{"fontColor": {"solid": {"color": "#BBA7D9"}}, "background": {"solid": {"color": "#FFFFFF"}}}],
+        "outlineColor": [{"solid": {"color": "#C4A9F8"}}]
+      }
+    }
+  }
+}
