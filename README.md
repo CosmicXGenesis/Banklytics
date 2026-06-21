@@ -10,7 +10,7 @@ The objective is to build an end-to-end Customer 360 analytics solution that ena
 ## Objectives
 
 - Generate realistic synthetic banking datasets
-- Simulate Core Banking System (CBS) entities and relationships
+- Simulate Core Banking System entities and relationships
 - Ingest data into SQL Server
 - Build analytical dashboards using Power BI
 - Support data-driven decision making for business stakeholders
@@ -83,7 +83,7 @@ C360/
 
 ---
 
-## Core Banking System Entities
+## System Entities
 
 The project currently simulates:
 
