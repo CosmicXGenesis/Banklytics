@@ -1,9 +1,8 @@
-# C360 - Banking Customer 360 Analytics Platform
+# Banklytics
 
 ## Overview
 
-C360 is a synthetic banking analytics platform that simulates a Core Banking System (CBS) by generating realistic relational banking datasets, loading them into SQL Server, and creating business intelligence dashboards in Power BI.
-
+Banklytics is a synthetic banking analytics platform that simulates a Core Banking System by generating realistic relational banking datasets, loading them into SQL Server, and creating business intelligence dashboards in Power BI.
 The objective is to build an end-to-end Customer 360 analytics solution that enables stakeholders and end users to derive actionable insights from banking data.
 
 ---
