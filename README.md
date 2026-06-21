@@ -72,8 +72,11 @@ C360/
 │       ├── Generated_Data/
 │       └── Generator_Script/
 │
-├── Power BI Theme/
-│   └── lilac_theme.json
+├── Power BI
+        ├── Dashboard/
+            └── Dashboard.pbix
+        └── Theme/
+│           └── lilac_theme.json
 │
 ├── .gitignore
 └── README.md
