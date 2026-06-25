@@ -137,7 +137,7 @@ Create dashboards for business users and stakeholders.
 
 ## Future Enhancements
 
-- Kafka-based streaming ingestion
+- Kafka-based streaming ingestions
 
 ---
 
